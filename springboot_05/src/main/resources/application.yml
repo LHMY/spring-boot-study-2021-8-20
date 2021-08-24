@@ -1,0 +1,5 @@
+#端口号 虚拟路径
+server:
+  port: 8082
+  servlet:
+    context-path: /pengys2
