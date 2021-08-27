@@ -1,0 +1,6 @@
+2021-08-25 10:57:10.660  INFO 17808 --- [main] com.pengys.Springboot13ApplicationTests  : Starting Springboot13ApplicationTests using Java 1.8.0_202 on LAPTOP-BAVPMBES with PID 17808 (started by 16945 in E:\Program Files (x86)\WorkSpace\shixun_Project\spring-boot-study-2021-8-20\springboot_13)
+2021-08-25 10:57:10.662  INFO 17808 --- [main] com.pengys.Springboot13ApplicationTests  : No active profile set, falling back to default profiles: default
+2021-08-25 10:57:11.792  INFO 17808 --- [main] com.pengys.Springboot13ApplicationTests  : Started Springboot13ApplicationTests in 1.444 seconds (JVM running for 2.581)
+2021-08-25 10:57:11.959  WARN 17808 --- [main] com.pengys.Springboot13ApplicationTests  : 我是警告
+2021-08-25 10:57:11.959  INFO 17808 --- [main] com.pengys.Springboot13ApplicationTests  : 我是info
+2021-08-25 10:57:11.959 ERROR 17808 --- [main] com.pengys.Springboot13ApplicationTests  : 我是error
