@@ -1,0 +1,11 @@
+server:
+  servlet:
+    context-path: /pengys
+  port: 8081
+
+
+spring:
+  web:
+    resources:
+      static-locations:
+        classpath:/pengys,classpath:/META-INF/resources,classpath:/static
